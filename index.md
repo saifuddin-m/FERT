@@ -1,6 +1,6 @@
 # FERTILIZER MANUFACTURE EMISSIONS
 
-Emissions from nitrogenous fertilizer manufacture plants reported in [EPA NEI data](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data). Facility-specificic ammonium capacities based on [Nutrien report.]() Barplots are ordered by increasing efficiency, beginning with worst emitters and ending with facilities which emitted the least per unit ammonium capacity. 
+Emissions from nitrogenous fertilizer manufacture plants reported in [EPA NEI data](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data). Facility-specificic ammonium capacities based on [Nutrien report.]()
 
 ## EMISSIONS VERSUS PRODUCTION CAPACITY
 Figures show reported annual total emissions versus ammonium production capacity. Line shows average rate of emissions per unit ammonium production capacity across facilities. Points above line indicate facilities that are emitting more than average, while points below line indicate facilities that are emitting less than average.
@@ -22,7 +22,7 @@ Figures show reported annual total emissions versus ammonium production capacity
 
 ## EMISSION RATES
 
-Barplots showing range of emissions per unit production capacity at nitrogenous fertilizer manufacturing facilities.
+Barplots showing range of emissions per unit production capacity at nitrogenous fertilizer manufacturing facilities. Barplots are ordered by increasing efficiency, beginning with worst emitters and ending with facilities which emitted the least per unit ammonium capacity. 
 
 <iframe title="Tons CO2 emitted per ton NH4 capacity" aria-label="Bar Chart" id="datawrapper-chart-sPvFA" src="https://datawrapper.dwcdn.net/sPvFA/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="544"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
