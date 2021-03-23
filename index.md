@@ -1,6 +1,6 @@
 # FERTILIZER MANUFACTURE EMISSIONS
 
-Emissions from nitrogenous fertilizer manufacture plants reported in [EPA NEI data](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data). Facility-specificic ammonium capacities based on [Nutrien report.]()
+Emissions from nitrogenous fertilizer manufacture plants reported in [EPA NEI data](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data). Facility-specificic ammonium capacities based on [Nutrien report.](https://www.nutrien.com/sites/default/files/uploads/2018-01/Nutrien%20Fact%20Book%202018_1.pdf)
 
 ## EMISSIONS VERSUS PRODUCTION CAPACITY
 Figures below show reported annual total emissions versus ammonium production capacity for N fertilizer plants. Line shows average rate of emissions per unit ammonium production capacity across facilities. Points above line indicate facilities that are emitting more than average, while points below line indicate facilities that are emitting less than average. Point sizes are scaled to reflect emissions per unit ammonium capacity, with larger points indicating facilities with higher emission rates and smaller points indicating facilities with lower emission rates.
