@@ -1,21 +1,37 @@
-## AMMONIA EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+## AIR EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+
+## AMMONIA
 
 <iframe title="AMMONIA EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-CodfR" src="https://datawrapper.dwcdn.net/CodfR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="514"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-## H2S EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+## HYDROGEN SULFIDE
 
 <iframe title="H2S EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-sxMmz" src="https://datawrapper.dwcdn.net/sxMmz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-## N2O EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+## NITROUS OXIDE
 
 <iframe title="N2O EMISSIONS BY LOCATION" aria-label="Map" id="datawrapper-chart-vH4cZ" src="https://datawrapper.dwcdn.net/vH4cZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+*****
+
 ## WATER POLLUTION FROM FERTILIZER PLANTS IN EPA'S ECHO DATABASE
 
-<iframe title="Water Pollution from Fertilizer Plants" aria-label="Map" id="datawrapper-chart-diFp5" src="https://datawrapper.dwcdn.net/diFp5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="592"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+## NITROGEN
+
+<iframe title="NITROGEN" aria-label="Map" id="datawrapper-chart-8GF1Q" src="https://datawrapper.dwcdn.net/8GF1Q/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="548"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## PHOSPHORUS
+
+<iframe title="" aria-label="Map" id="datawrapper-chart-lMJH7" src="https://datawrapper.dwcdn.net/lMJH7/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="496"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## TOTAL SOLIDS
+
+<iframe title="" aria-label="Map" id="datawrapper-chart-09mzq" src="https://datawrapper.dwcdn.net/09mzq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="496"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ****
