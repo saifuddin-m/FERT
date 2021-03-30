@@ -27,13 +27,13 @@
 <iframe title="NITROGEN" aria-label="Map" id="datawrapper-chart-8GF1Q" src="https://datawrapper.dwcdn.net/8GF1Q/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="548"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-
+<br>
 ## PHOSPHORUS
 
 <iframe title="" aria-label="Map" id="datawrapper-chart-lMJH7" src="https://datawrapper.dwcdn.net/lMJH7/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="496"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-
+<br>
 ## TOTAL SOLIDS
 
 <iframe title="" aria-label="Map" id="datawrapper-chart-09mzq" src="https://datawrapper.dwcdn.net/09mzq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="496"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
