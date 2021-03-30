@@ -1,4 +1,17 @@
-# FERTILIZER MANUFACTURE EMISSIONS
+
+## N2O EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+
+<iframe title="N2O EMISSIONS BY LOCATION" aria-label="Map" id="datawrapper-chart-vH4cZ" src="https://datawrapper.dwcdn.net/vH4cZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## WATER POLLUTION FROM FERTILIZER PLANTS IN EPA'S ECHO DATABASE
+
+<iframe title="Water Pollution from Fertilizer Plants" aria-label="Map" id="datawrapper-chart-diFp5" src="https://datawrapper.dwcdn.net/diFp5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="592"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+****
+
+# FERTILIZER PLANT GHG EMISSIONS SCALED BY PRODUCTION CAPACITY
 
 Emissions from nitrogenous fertilizer manufacture plants reported in [EPA NEI data](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data). Facility-specificic ammonium capacities based on [Nutrien report.](https://www.nutrien.com/sites/default/files/uploads/2018-01/Nutrien%20Fact%20Book%202018_1.pdf)
 
@@ -37,10 +50,4 @@ Barplots showing range of emissions per unit production capacity at nitrogenous 
 </script>
 
 <iframe title="Tons NH3 emitted per ton NH4 capacity" aria-label="Bar Chart" id="datawrapper-chart-IhxFO" src="https://datawrapper.dwcdn.net/IhxFO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="544"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-
-
-## WATER POLLUTION FROM FERTILIZER PLANTS IN EPA'S ECHO DATABASE
-
-<iframe title="Water Pollution from Fertilizer Plants" aria-label="Map" id="datawrapper-chart-diFp5" src="https://datawrapper.dwcdn.net/diFp5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="592"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
