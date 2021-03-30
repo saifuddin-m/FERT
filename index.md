@@ -1,4 +1,5 @@
-## AIR EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+# AIR POLLUTION
+### AIR EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
 
 ## AMMONIA
 
@@ -17,7 +18,8 @@
 
 *****
 
-## WATER POLLUTION FROM FERTILIZER PLANTS IN EPA'S ECHO DATABASE
+# WATER
+### WATER POLLUTION FROM FERTILIZER PLANTS IN EPA'S ECHO DATABASE
 
 ## NITROGEN
 
@@ -36,7 +38,8 @@
 
 ****
 
-# FERTILIZER PLANT GHG EMISSIONS SCALED BY PRODUCTION CAPACITY
+# GREENHOUSE GASES
+### FERTILIZER PLANT GHG EMISSIONS SCALED BY PRODUCTION CAPACITY
 
 Emissions from nitrogenous fertilizer manufacture plants reported in [EPA NEI data](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data). Facility-specificic ammonium capacities based on [Nutrien report.](https://www.nutrien.com/sites/default/files/uploads/2018-01/Nutrien%20Fact%20Book%202018_1.pdf)
 
