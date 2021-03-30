@@ -12,6 +12,8 @@
 <iframe title="H2S EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-sxMmz" src="https://datawrapper.dwcdn.net/sxMmz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+(For total H2S emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/JGflc/1/). 
+
 <br>
 ## NITROUS OXIDE
 
