@@ -1,3 +1,12 @@
+## AMMONIA EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+
+<iframe title="AMMONIA EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-CodfR" src="https://datawrapper.dwcdn.net/CodfR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="514"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## H2S EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
+
+<iframe title="H2S EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-sxMmz" src="https://datawrapper.dwcdn.net/sxMmz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 ## N2O EMISSIONS FROM FERTILIZER PLANTS IN EPA'S NEI DATABASE
 
