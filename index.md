@@ -5,14 +5,14 @@
 
 <iframe title="AMMONIA EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-CodfR" src="https://datawrapper.dwcdn.net/CodfR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="514"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-(For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/). For top NH3 emitters across sectors in 2017 NEI data, see [by location on map HERE](https://datawrapper.dwcdn.net/UGAOa/1/) or [by value HERE](https://datawrapper.dwcdn.net/Fj49x/2/).)
+(For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/). For top NH3 emitters across sectors, see [by location on map HERE](https://datawrapper.dwcdn.net/UGAOa/1/) or [by value HERE](https://datawrapper.dwcdn.net/Fj49x/2/).)
 <br>
 ## HYDROGEN SULFIDE
 
 <iframe title="H2S EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-sxMmz" src="https://datawrapper.dwcdn.net/sxMmz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-(For total H2S emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/JGflc/1/). For top H2S emitters across sectors in 2017 NEI data, see [by location on map HERE](https://datawrapper.dwcdn.net/RIUMG/1/) or [by value HERE](https://datawrapper.dwcdn.net/SHbov/1/).) 
+(For total H2S emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/JGflc/1/). For top H2S emitters across sectors, see [by location on map HERE](https://datawrapper.dwcdn.net/RIUMG/1/) or [by value HERE](https://datawrapper.dwcdn.net/SHbov/1/).) 
 
 <br>
 ## NITROUS OXIDE
@@ -22,7 +22,7 @@
 
 *****
 
-# WATER
+# WATER POLLUTION
 ### WATER POLLUTION FROM FERTILIZER PLANTS IN [EPA'S ECHO DATABASE](https://echo.epa.gov/trends/loading-tool/water-pollution-search/results/?s=40f47d52a3790a2b24c8ee395095ef6da9e65b29!)
 
 
